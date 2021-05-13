@@ -1,0 +1,82 @@
+﻿Build started 11/1/2020 7:17:51 PM.
+     1>Project "E:\SP Programming\204101001_vowelRecognition\Task\Task.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\Task.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\Task.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Task.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Task.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Task.cpp
+         Task.cpp
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(123): warning C4244: '=' : conversion from 'long double' to '__int64', possible loss of data
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(155): warning C4244: '=' : conversion from 'long double' to '__int64', possible loss of data
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(168): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(182): warning C4244: '+=' : conversion from 'long double' to '__int64', possible loss of data
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(204): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(223): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(223): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(430): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(445): warning C4244: '=' : conversion from 'long double' to '__int64', possible loss of data
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(458): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(472): warning C4244: '+=' : conversion from 'long double' to '__int64', possible loss of data
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(494): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(514): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(514): warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(586): warning C4305: 'initializing' : truncation from '__int64' to 'long double'
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(590): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(494) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(702): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(702): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(705): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(705): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(708): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(708): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(711): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(711): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(714): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+     1>e:\sp programming\204101001_vowelrecognition\task\task.cpp(714): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(689) : definition of 'i' ignored
+                 e:\sp programming\204101001_vowelrecognition\task\task.cpp(430) : definition of 'i' used
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Task.exe.embed.manifest.res" Debug\Task_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\SP Programming\204101001_vowelRecognition\Debug\Task.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Task.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\SP Programming\204101001_vowelRecognition\Debug\Task.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\SP Programming\204101001_vowelRecognition\Debug\Task.lib" /MACHINE:X86 Debug\Task.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Task.obj
+       Manifest:
+         Deleting file "Debug\Task.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Task.exe.embed.manifest" /manifest Debug\Task.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Task.exe.embed.manifest.res" Debug\Task_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\SP Programming\204101001_vowelRecognition\Debug\Task.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Task.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\SP Programming\204101001_vowelRecognition\Debug\Task.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\SP Programming\204101001_vowelRecognition\Debug\Task.lib" /MACHINE:X86 Debug\Task.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Task.obj
+         Task.vcxproj -> E:\SP Programming\204101001_vowelRecognition\Debug\Task.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Task.unsuccessfulbuild".
+         Touching "Debug\Task.lastbuildstate".
+     1>Done Building Project "E:\SP Programming\204101001_vowelRecognition\Task\Task.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.95

@@ -1,0 +1,18 @@
+Instruction to run code
+-- Input files and recordings are present in Input folder
+-- here there are two input file....one is abhik (recorded by me) other 
+   is sir_recording (recording provided by sir) inside the Input folder
+-- Just change the fin.open (.....) parameter according to your pc location 
+   and simply run
+
+
+Logic
+1. Stored ZCRs and Energies of the wave in samples of 320.
+2. Then found out the word boundaries using energy calculated in step 1. 
+3. After finding out word boundary, iterate over each word and analyse the
+   ZCR of second half of each waveform. If it is greater than a threshold
+   then it is 'YES' else 'NO'.
+
+For recording
+Initially you will be promopt to record and after you recording is done, hit enter
+to run other part of code
